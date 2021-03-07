@@ -1,0 +1,6 @@
+a = 3 + 2
+b = not a
+c = a - 4
+d = b + a
+e = c * 2
+f = a or e

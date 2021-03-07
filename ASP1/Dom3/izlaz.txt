@@ -1,0 +1,7 @@
+Lista susednosti:
+a: b->c->d->f->NULL
+b: d->NULL
+c: e->NULL
+d: NULL
+e: f->NULL
+f: NULL
